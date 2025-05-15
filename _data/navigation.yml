@@ -14,11 +14,11 @@ main:
   - title: "Talks"
     url: /profession/talks/    
 
-  - title: "Teaching"
-    url: /profession/teaching/    
+  - title: "Services"
+    url: /profession/services/    
     
-  - title: "Portfolio"
-    url: /profession/portfolio/
+  # - title: "Portfolio"
+  #   url: /profession/portfolio/
         
   - title: "Blog Posts"
     url: /profession/year-archive/
@@ -29,5 +29,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /profession/markdown/
+  # - title: "Guide"
+  #   url: /profession/markdown/
+
+  - title: "Life"
+    url: /life/
