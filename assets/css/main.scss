@@ -41,3 +41,31 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+
+
+.nav-link {
+  display: block; /* Makes the link behave like a block element */
+  width: 600px; /* Fixed width for the navigation links */
+  max-width: 45%; /* Ensures responsiveness on smaller screens */
+  padding: 15px 20px; /* Adds padding inside the box */
+  margin: 10px auto; /* Adds vertical space and centers horizontally */
+  background-color: #f0f0f0; /* Background color of the box */
+  color: #333; /* Text color */
+  text-decoration: none; /* Removes the underline from the link */
+  border: 1px solid #ccc; /* Adds a border around the box */
+  border-radius: 5px; /* Rounds the corners of the box */
+  transition: background-color 0.3s, border-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.nav-link:hover {
+  background-color: #e0e0e0; /* Slightly darker background on hover */
+  border-color: #999; /* Darker border on hover */
+}
+
+.nav-description {
+  display: block; /* Ensures the description spans the full width */
+  font-size: 14px; /* Smaller font size for the description */
+  color: #666; /* Lighter text color for the description */
+  margin-top: 5px; /* Space between the title and description */
+}
