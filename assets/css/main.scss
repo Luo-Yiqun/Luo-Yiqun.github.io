@@ -44,6 +44,14 @@
 
 
 
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
 .nav-link {
   display: block; /* Makes the link behave like a block element */
   width: 600px; /* Fixed width for the navigation links */
