@@ -2,7 +2,7 @@
 title: "A GW+BSE Dataset of 101 Polycyclic Aromatic Hydrocarbon (PAH) Molecular Crystals"
 collection: publications
 category: manuscripts
-permalink: /profession/publication/2025-04-23-A-GW-BSE-Dataset-of-101-Polycyclic-Aromatic-Hydrocarbon-PAH-Molecular-Crystals
+permalink: /profession/publications/2025-04-23-A-GW-BSE-Dataset-of-101-Polycyclic-Aromatic-Hydrocarbon-PAH-Molecular-Crystals
 excerpt: # 'This paper is about a GW+BSE dataset of 101 polycyclic aromatic hydrocarbon (PAH) molecular crystals.'
 date: 2025-04-23
 venue: 'Scientific Data'

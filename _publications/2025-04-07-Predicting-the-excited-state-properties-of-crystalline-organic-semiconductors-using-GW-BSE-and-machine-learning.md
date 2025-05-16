@@ -2,7 +2,7 @@
 title: "Predicting the excited-state properties of crystalline organic semiconductors using GW+BSE and machine learning"
 collection: publications
 category: manuscripts
-permalink: /profession/publication/2025-04-07-Predicting-the-excited-state-properties-of-crystalline-organic-semiconductors-using-GW-BSE-and-machine-learning
+permalink: /profession/publications/2025-04-07-Predicting-the-excited-state-properties-of-crystalline-organic-semiconductors-using-GW-BSE-and-machine-learning
 excerpt: # 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-04-07
 venue: 'Digital Discovery'

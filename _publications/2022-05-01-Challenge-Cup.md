@@ -2,7 +2,7 @@
 title: "Challenge Cup"
 collection: publications
 category: projects
-permalink: /profession/publication/2022-05-01-Challenge-Cup
+permalink: /profession/publications/2022-05-01-Challenge-Cup
 excerpt: Top 2% in the Challenge Cup!
 date: 2022-05-01
 venue: 'Ministry of Education of the People's Republic of China'

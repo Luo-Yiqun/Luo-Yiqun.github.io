@@ -2,7 +2,7 @@
 title: "Computational Discovery of Intermolecular Singlet Fission Materials Using Many-Body Perturbation Theory"
 collection: publications
 category: manuscripts
-permalink: /profession/publication/2024-05-01-Computational-Discovery-of-Intermolecular-Singlet-Fission-Materials-Using-Many-Body-Perturbation-Theory
+permalink: /profession/publications/2024-05-01-Computational-Discovery-of-Intermolecular-Singlet-Fission-Materials-Using-Many-Body-Perturbation-Theory
 excerpt: # 'This paper is a review on the computational discovery of intermolecular singlet fission materials using many-body perturbation theory.'
 date: 2024-05-01
 venue: 'The Journal of Physical Chemistry C'

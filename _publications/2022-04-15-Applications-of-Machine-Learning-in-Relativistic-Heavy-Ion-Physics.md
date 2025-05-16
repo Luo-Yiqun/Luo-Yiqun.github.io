@@ -2,7 +2,7 @@
 title: "Applications of Machine Learning in Relativistic Heavy Ion Physics"
 collection: publications
 category: manuscripts
-permalink: /profession/publication/2022-04-15-Applications-of-Machine-Learning-in-Relativistic-Heavy-Ion-Physics
+permalink: /profession/publications/2022-04-15-Applications-of-Machine-Learning-in-Relativistic-Heavy-Ion-Physics
 excerpt: # 'This paper is a review on the applications of machine learning in relativistic heavy ion physics.'
 date: 2022-04-15
 venue: 'SCIENTIA SINICA Physica, Mechanica & Astronomica'
