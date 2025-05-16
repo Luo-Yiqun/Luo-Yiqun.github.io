@@ -1,8 +1,8 @@
 ---
 title: "Teaching Assistant"
-collection: teaching
+collection: services
 type: "Undergraduate course"
-permalink: /profession/teaching/2024-spring-teaching
+permalink: /profession/services/2024-spring-teaching
 venue: "Carnegie Mellon University, Department of Physics"
 date: 2024-01-01
 location: "Pittsburgh, PA, USA"

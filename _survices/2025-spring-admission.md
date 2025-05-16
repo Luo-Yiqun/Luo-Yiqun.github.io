@@ -1,8 +1,8 @@
 ---
 title: "Admission Committee Member"
-collection: teaching
+collection: services
 type: "Admission"
-permalink: /teaching/2025-spring-admission
+permalink: /profession/services/2025-spring-admission
 venue: "Carnegie Mellon University, Department of Physics"
 date: 2025-01-01
 location: "Pittsburgh, PA, USA"
