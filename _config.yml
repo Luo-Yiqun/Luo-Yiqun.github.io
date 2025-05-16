@@ -25,14 +25,14 @@ author:
   avatar           : "profile.png"
   name             : "Yiqun (Jalen) Luo 罗逸群"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hacking supercomputers to push the limits of excited-state materials modeling"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : https://luo-yiqun.github.io/profession/ # URL
   email            : "luo2@andrew.cmu.edu" 
 
   # Academic websites
-  academia         : https://luo-yiqun.github.io/profession/ # URL
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : https://scholar.google.com/citations?user=ngX18LIAAAAJ # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
