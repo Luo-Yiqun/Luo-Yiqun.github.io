@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Pittsburgh, PA, USA"
 ---
 
-I honorably served as a member in the admission committee for the Department of Physics at Carnegie Mellon University for Fall 2025 Ph.D. applicants.
+I honorably served as a member in the *admission committee* for the Department of Physics at Carnegie Mellon University for Fall 2025 Ph.D. applicants.
 
 I reviewed Ph.D. applications, evaluated candidates' potential to succeed in a Ph.D. program, and provided recommendations to the admissions committee.
 I also participated in candidate discussions and contributed to the final decision-making process as well.

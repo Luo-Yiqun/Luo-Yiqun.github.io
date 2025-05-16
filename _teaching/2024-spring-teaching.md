@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Pittsburgh, PA, USA"
 ---
 
-I honorably served as a teaching assistant for the course **Physics I for Engineering Students: Electricity and Magnetism** in the spring of 2024.
+I honorably served as a teaching assistant for the course *Physics I for Engineering Students: Electricity and Magnetism* in the spring of 2024.
 This course is designed for second-year undergraduate students in the colledge of engineering.
 
 
