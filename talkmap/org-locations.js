@@ -5,6 +5,11 @@ var addressPoints = [
     -105.523216
   ],
   [
+    "BerkeleyGW Workshop<br />University of California, Berkeley, Department of Physics; Oakland, CA, USA",
+    37.8044557,
+    -122.271356
+  ],
+  [
     "Computational Discovery of Intermolecular Singlet Fission Materials Using Many-Body Perturbation Theory<br />American Physical Society (APS) March Meeting; Anaheim, CA, USA",
     33.8347516,
     -117.911732
