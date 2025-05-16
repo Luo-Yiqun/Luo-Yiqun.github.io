@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Inverse Design of Tetracene Polymorphs with Enhanced Singlet Fission Performance by Property-Based Genetic Algorithm Optimization<br />UC Boulder, Department of Chemistry and Biochemistry; Estes Park, CO, USA",
+    40.3771926,
+    -105.523216
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Computational Discovery of Intermolecular Singlet Fission Materials Using Many-Body Perturbation Theory<br />American Physical Society (APS) March Meeting; Anaheim, CA, USA",
+    33.8347516,
+    -117.911732
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Predicting the excited-state properties of crystalline organic semiconductors using GW+BSE and machine learning<br />American Physical Society (APS) March Meeting; Anaheim, CA, USA",
+    33.8347516,
+    -117.911732
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Predicting the excited-state properties of crystalline organic semiconductors using GW+BSE and machine learning<br />University of Pennsylvania, Department of Chemistry; Philadelphia, PA, USA",
+    39.9527237,
+    -75.1635262
   ]
 ];
