@@ -38,8 +38,10 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% if post.collection == 'services' %}
+          {% if post.start and post.end %}
+            <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.start | date: "%B %Y" }} - {{ post.end | date: "%B %Y" }} </p>
+          {% endif %}
         {% elsif post.collection == 'publications' %}
           {% if post.category != 'projects' %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
