@@ -4,7 +4,8 @@ collection: services
 type: "Undergraduate course"
 permalink: /profession/services/2024-spring-teaching
 venue: "Carnegie Mellon University, Department of Physics"
-date: 2024-01-01
+start: 2024-01
+end: 2024-05
 location: "Pittsburgh, PA, USA"
 ---
 

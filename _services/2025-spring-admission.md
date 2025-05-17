@@ -4,7 +4,8 @@ collection: services
 type: "Admission"
 permalink: /profession/services/2025-spring-admission
 venue: "Carnegie Mellon University, Department of Physics"
-date: 2025-01-01
+start: 2024-12
+end: 2025-04
 location: "Pittsburgh, PA, USA"
 ---
 
