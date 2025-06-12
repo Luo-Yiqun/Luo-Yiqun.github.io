@@ -7,7 +7,7 @@ excerpt: # 'This paper is about a GW+BSE dataset of 101 polycyclic aromatic hydr
 date: 2025-04-23
 venue: 'Scientific Data'
 paperurl: 'https://www.nature.com/articles/s41597-025-04959-0.pdf'
-citation: 'Gao S, Liu X, Luo Y, Wang X, Zhao K, Chang V, Schatschneider B, Marom N. PAH101: AGW+ BSE Dataset of 101 Polycyclic Aromatic Hydrocarbon (PAH) Molecular Crystals. Scientific Data. 2025 Apr 23;12(1):679.'
+citation: 'Gao S, Liu X, Luo Y, Wang X, Zhao K, Chang V, Schatschneider B, Marom N. PAH101: A GW+BSE Dataset of 101 Polycyclic Aromatic Hydrocarbon (PAH) Molecular Crystals. Scientific Data. 2025 Apr 23;12(1):679.'
 ---
 
 <img src="/images/PAH101Nature25.jpg" alt="PAH101 Dataset Overview" style="height: 100pt;">

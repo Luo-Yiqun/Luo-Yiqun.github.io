@@ -6,11 +6,78 @@ layout: life
 
 <head>
     <link rel="stylesheet" href="/assets/css/main.scss">
+    <style>
+        .nav-container {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .nav-link {
+            flex: 1;
+            max-width: 500px;
+            padding: 2rem;
+            border-radius: 15px;
+            background: linear-gradient(145deg, #ffffff, #f5f5f5);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .nav-link:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+        }
+
+        .nav-link::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, #4a90e2, #67b26f);
+        }
+
+        .nav-link > div {
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+        }
+
+        .nav-description {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #666;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .nav-container {
+                flex-direction: column;
+                padding: 1rem;
+            }
+            
+            .nav-link {
+                margin-bottom: 1rem;
+            }
+        }
+    </style>
 </head>
 
 <div class="nav-container">
     <a href="/life/" class="nav-link">
-        <div style="text-align: center;">
+        <div>
             Life 生活板块
         </div>
         <span class="nav-description">
@@ -19,7 +86,7 @@ layout: life
         </span>
     </a>
     <a href="/profession/" class="nav-link">
-        <div style="text-align: center;">
+        <div>
             Profession 工作板块
         </div>
         <span class="nav-description">
