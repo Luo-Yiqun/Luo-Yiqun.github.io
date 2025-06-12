@@ -23,5 +23,15 @@ var addressPoints = [
     "Predicting the excited-state properties of crystalline organic semiconductors using GW+BSE and machine learning<br />University of Pennsylvania, Department of Chemistry; Philadelphia, PA, USA",
     39.9527237,
     -75.1635262
+  ],
+  [
+    "Predicting the excited-state properties of crystalline organic semiconductors using GW+BSE and machine learning<br />Los Alamos National Laboratory; Santa Fe, NM, USA",
+    35.6876096,
+    -105.938456
+  ],
+  [
+    "Predicting the excited-state properties of crystalline organic semiconductors using GW+BSE and machine learning<br />University of Texas at El Paso, Department of Physical Sciences; El Paso, TX, USA",
+    31.7601164,
+    -106.4870404
   ]
 ];
